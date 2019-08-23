@@ -1,0 +1,11 @@
+﻿  Ex_lidor.c
+c:\users\user\desktop\visual studio projects\lidor\lidor\view.h(8): fatal error C1083: Cannot open include file: 'opencv2\core\core_c.h': No such file or directory
+  linkedList.c
+c:\users\user\desktop\visual studio projects\lidor\lidor\linkedlist.c(64): warning C4098: 'removeFrame': 'void' function returning a value
+c:\users\user\desktop\visual studio projects\lidor\lidor\linkedlist.c(122): warning C4189: 'index': local variable is initialized but not referenced
+c:\users\user\desktop\visual studio projects\lidor\lidor\linkedlist.c(122): warning C4189: 'i': local variable is initialized but not referenced
+c:\users\user\desktop\visual studio projects\lidor\lidor\linkedlist.c(143): warning C4189: 'index': local variable is initialized but not referenced
+c:\users\user\desktop\visual studio projects\lidor\lidor\linkedlist.c(143): warning C4189: 'i': local variable is initialized but not referenced
+  view.c
+c:\users\user\desktop\visual studio projects\lidor\lidor\view.h(8): fatal error C1083: Cannot open include file: 'opencv2\core\core_c.h': No such file or directory
+  Generating Code...
